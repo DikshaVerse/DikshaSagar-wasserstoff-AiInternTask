@@ -85,7 +85,12 @@ class HuggingFaceService:
 
     def analyze_sentiment(self, text: str) -> str:
         result = self.sentiment_analyzer(text[:MAX_TEXT_LENGTH])[0]
-        return result['label']
+        label_map = {
+            'LABEL_0': 'Negative',
+            'LABEL_1': 'Neutral',
+            'LABEL_2': 'Positive'
+        }
+        return label_map.get(result['label'], result['label'])  # fallback in case of unexpected label
 
     def generate_summary(self, text: str) -> str:
         result = self.summarizer(text[:MAX_TEXT_LENGTH], max_length=80, min_length=20, do_sample=False)[0]
@@ -255,7 +260,16 @@ if __name__ == '__main__':
     try:
         logger.info("Starting email processing script...")
 
-        # Simulate fetching emails
+        # 🔐 Force OAuth at the start
+        logger.info("🔐 Authenticating with Google Calendar...")
+        flow = InstalledAppFlow.from_client_secrets_file(CREDENTIALS_FILE, CALENDAR_SCOPES)
+        creds = flow.run_local_server(port=0)
+
+        # Optionally, save the token
+        with open(CALENDAR_TOKEN_FILE, 'w') as token:
+            token.write(creds.to_json())
+
+        # ✅ Continue to initialize and process emails
         emails = [
             {
                 'id': '001',
@@ -276,10 +290,7 @@ if __name__ == '__main__':
         processor = EmailProcessor()
         processor.process_emails(emails)
 
-        # Display processed results
         display_results(emails)
-
-        # Cleanup
         processor.cleanup()
 
     except Exception as e:
