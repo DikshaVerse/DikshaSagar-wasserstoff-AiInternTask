@@ -1,27 +1,34 @@
-# Updated llm_service.py with local fallback
-from transformers import pipeline
-import warnings
-warnings.filterwarnings("ignore")
+import logging
+from typing import Dict, Any
 
-# Local LLM fallback
-local_llm = pipeline("text-generation", model="gpt2")
+logger = logging.getLogger(__name__)
 
-def analyze_email(email):
-    try:
-        # Try OpenAI first if you fix billing
-        from openai import OpenAI
-        client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-        response = client.chat.completions.create(
-            model="gpt-3.5-turbo",
-            messages=[...],
-            temperature=0.3
-        )
-        return response.choices[0].message.content
-    except:
-        # Fallback to local model
-        result = local_llm(
-            f"Analyze this email: {email['subject']}\n{email['body'][:500]}",
-            max_length=100,
-            do_sample=False
-        )
-        return result[0]['generated_text']
+class LLMAnalyzer:
+    def __init__(self, hf_service):
+        """Initialize with HuggingFace service"""
+        self.hf = hf_service
+        logger.info("LLM Analyzer initialized")
+
+    def analyze_email(self, text: str) -> Dict[str, Any]:
+        """Comprehensive email analysis"""
+        try:
+            return {
+                "sentiment": self.hf.analyze_sentiment(text),
+                "category": self.hf.classify_category(text),
+                "urgency": self.hf.detect_urgency(text),
+                "summary": self.hf.generate_summary(text),
+                "draft_response": self._generate_draft_response(text)
+            }
+        except Exception as e:
+            logger.error(f"Email analysis failed: {str(e)}")
+            return {
+                "sentiment": "neutral",
+                "category": "general",
+                "urgency": 0,
+                "summary": "Analysis failed",
+                "draft_response": ""
+            }
+
+    def _generate_draft_response(self, text: str) -> str:
+        """Generate a draft response (placeholder for future enhancement)"""
+        return ""

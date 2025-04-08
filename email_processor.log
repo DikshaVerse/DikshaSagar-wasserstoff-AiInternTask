@@ -1,0 +1,55 @@
+2025-04-04 13:10:50,458 - ERROR - Failed to initialize Gmail client: OAuth token not found. Run authentication first.
+2025-04-04 17:25:20,466 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-04 17:25:20,474 - INFO - Email processor initialized successfully
+2025-04-04 17:25:21,512 - INFO - Found 5 emails to process
+2025-04-04 17:25:21,981 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:25:21,981 - WARNING - Failed to save: 196007a6b06b1054
+2025-04-04 17:25:22,699 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:25:22,699 - WARNING - Failed to save: 19600790c0e71698
+2025-04-04 17:25:23,207 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:25:23,207 - WARNING - Failed to save: 1960078d25da53f1
+2025-04-04 17:25:23,728 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:25:23,728 - WARNING - Failed to save: 196006e10d1cb2e9
+2025-04-04 17:25:24,246 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:25:24,247 - WARNING - Failed to save: 19600426761b3768
+2025-04-04 17:25:24,247 - INFO - Successfully processed 0/5 emails
+2025-04-04 17:25:24,247 - INFO - Resources cleaned up
+2025-04-04 17:26:10,550 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-04 17:26:10,566 - INFO - Email processor initialized successfully
+2025-04-04 17:26:11,445 - INFO - Found 5 emails to process
+2025-04-04 17:26:12,019 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:26:12,019 - WARNING - Failed to save: 196007a6b06b1054
+2025-04-04 17:26:12,511 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:26:12,511 - WARNING - Failed to save: 19600790c0e71698
+2025-04-04 17:26:13,020 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:26:13,020 - WARNING - Failed to save: 1960078d25da53f1
+2025-04-04 17:26:13,547 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:26:13,547 - WARNING - Failed to save: 196006e10d1cb2e9
+2025-04-04 17:26:14,086 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:26:14,086 - WARNING - Failed to save: 19600426761b3768
+2025-04-04 17:26:14,086 - INFO - Successfully processed 0/5 emails
+2025-04-04 17:26:14,088 - INFO - Resources cleaned up
+2025-04-04 18:32:44,075 - INFO - Database schema initialized
+2025-04-04 18:32:44,349 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-04 18:32:44,407 - INFO - Email processor initialized
+2025-04-04 18:32:46,489 - ERROR - Database error: 10 values for 11 columns
+2025-04-04 18:32:46,963 - ERROR - Database error: 10 values for 11 columns
+2025-04-04 18:32:47,398 - ERROR - Database error: 10 values for 11 columns
+2025-04-04 18:32:47,990 - ERROR - Database error: 10 values for 11 columns
+2025-04-04 18:32:48,449 - ERROR - Database error: 10 values for 11 columns
+2025-04-04 18:32:48,449 - INFO - Processed 0/5 emails successfully
+2025-04-04 18:32:48,449 - INFO - Database connection closed
+2025-04-04 18:32:48,449 - INFO - Resources released
+2025-04-04 19:16:50,838 - CRITICAL - Application failed: unrecognized token: "#"
+2025-04-04 21:19:38,802 - INFO - Database schema initialized
+2025-04-04 21:19:39,495 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-04 21:19:39,534 - INFO - Email processor initialized
+2025-04-04 21:19:43,881 - INFO - Successfully processed 5/5 emails
+2025-04-04 21:19:43,882 - INFO - Database connection closed
+2025-04-04 21:19:43,882 - INFO - Resources released
+2025-04-05 08:03:28,589 - INFO - Database schema initialized
+2025-04-05 08:03:29,170 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-05 08:03:29,170 - INFO - Email processor initialized
+2025-04-05 08:03:33,345 - INFO - Successfully processed 5/5 emails
+2025-04-05 08:03:33,349 - INFO - Database connection closed
+2025-04-05 08:03:33,349 - INFO - Resources released

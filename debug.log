@@ -1,0 +1,314 @@
+2025-04-04 17:08:22,134 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-04 17:08:22,134 - INFO - Service initialized successfully
+2025-04-04 17:08:22,142 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?labelIds=INBOX&q=is%3Aunread&alt=json
+2025-04-04 17:08:23,083 - INFO - Found 100 unread emails.
+2025-04-04 17:08:23,099 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/196007a6b06b1054?alt=json
+2025-04-04 17:08:23,671 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:23,681 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/19600790c0e71698?alt=json
+2025-04-04 17:08:24,150 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:24,166 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/1960078d25da53f1?alt=json
+2025-04-04 17:08:24,665 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:24,665 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/196006e10d1cb2e9?alt=json
+2025-04-04 17:08:25,222 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:25,222 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/19600426761b3768?alt=json
+2025-04-04 17:08:26,390 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:26,390 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/196001a06158a0b3?alt=json
+2025-04-04 17:08:26,880 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:26,882 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/196000f3d7fcd1f2?alt=json
+2025-04-04 17:08:27,388 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:27,388 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/19600032d408dd5c?alt=json
+2025-04-04 17:08:27,881 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:27,886 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fff356cbe0643?alt=json
+2025-04-04 17:08:28,313 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:28,319 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195ffd80304df782?alt=json
+2025-04-04 17:08:28,780 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:28,780 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195ffc5b70d08e18?alt=json
+2025-04-04 17:08:29,270 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:29,270 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195ff8ae3bab3e95?alt=json
+2025-04-04 17:08:29,757 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:29,763 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195ff89911400635?alt=json
+2025-04-04 17:08:30,269 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:30,269 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195ff6dc94524c51?alt=json
+2025-04-04 17:08:30,738 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:30,745 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195ff6bea8990154?alt=json
+2025-04-04 17:08:31,188 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:31,188 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195ff630b4798979?alt=json
+2025-04-04 17:08:31,730 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:31,745 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195ff60cb6736c88?alt=json
+2025-04-04 17:08:32,187 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:32,188 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195ff5cfb87acceb?alt=json
+2025-04-04 17:08:32,627 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:32,627 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195ff5c7834ffedf?alt=json
+2025-04-04 17:08:33,099 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:33,104 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195ff55a08f5cf4b?alt=json
+2025-04-04 17:08:33,524 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:33,532 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195ff4d1bce4138f?alt=json
+2025-04-04 17:08:33,977 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:33,987 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195ff3ff04ba9590?alt=json
+2025-04-04 17:08:34,478 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:34,482 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195ff31c83979bf0?alt=json
+2025-04-04 17:08:34,949 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:34,953 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fef5db93f07e8?alt=json
+2025-04-04 17:08:35,445 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:35,445 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fef13f8247980?alt=json
+2025-04-04 17:08:35,998 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:36,008 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fee3bcfe957b8?alt=json
+2025-04-04 17:08:36,496 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:36,504 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fedf0eeb54ba6?alt=json
+2025-04-04 17:08:36,951 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:36,956 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195feaceff834355?alt=json
+2025-04-04 17:08:37,470 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:37,493 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fea7ad5192365?alt=json
+2025-04-04 17:08:37,933 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:37,939 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fe64bd6c94fd0?alt=json
+2025-04-04 17:08:38,448 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:38,449 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fe630a6ebb23e?alt=json
+2025-04-04 17:08:38,977 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:38,977 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fe2b66f51e4b4?alt=json
+2025-04-04 17:08:39,452 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:39,453 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fe2a68ae9130b?alt=json
+2025-04-04 17:08:40,907 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:40,907 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fe080a3f6e39c?alt=json
+2025-04-04 17:08:41,460 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:41,460 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fdc9dedcea21e?alt=json
+2025-04-04 17:08:42,176 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:42,176 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fdac49c5d3ac7?alt=json
+2025-04-04 17:08:42,682 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:42,682 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fda9b96a24e03?alt=json
+2025-04-04 17:08:44,022 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:44,024 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fd591676325de?alt=json
+2025-04-04 17:08:44,468 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:44,468 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fd3a62c2fd9af?alt=json
+2025-04-04 17:08:45,025 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:45,030 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fd269b37ccf2d?alt=json
+2025-04-04 17:08:45,574 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:45,574 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fd232e205686a?alt=json
+2025-04-04 17:08:46,090 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:46,095 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fd12b3e01cd26?alt=json
+2025-04-04 17:08:46,540 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:46,540 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fd0992f94840e?alt=json
+2025-04-04 17:08:47,193 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:47,193 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fcce4f63aed01?alt=json
+2025-04-04 17:08:47,659 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:47,659 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fccc9c86ab2b6?alt=json
+2025-04-04 17:08:48,127 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:48,127 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fc6a594fcfe5f?alt=json
+2025-04-04 17:08:48,622 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:48,641 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fc6727faeb4bd?alt=json
+2025-04-04 17:08:49,107 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:49,107 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fc538f4f2d965?alt=json
+2025-04-04 17:08:49,610 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:49,627 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fc4cbe4e94ed7?alt=json
+2025-04-04 17:08:50,073 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:50,073 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fc46ba64412eb?alt=json
+2025-04-04 17:08:50,582 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:50,584 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fc3f9b97bcdcc?alt=json
+2025-04-04 17:08:51,014 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:51,030 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fc026080d5a44?alt=json
+2025-04-04 17:08:51,505 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:51,521 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fbe07b86961e4?alt=json
+2025-04-04 17:08:52,116 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:52,122 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fbd7cebfbdc01?alt=json
+2025-04-04 17:08:52,573 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:52,579 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fbcaf94158d2c?alt=json
+2025-04-04 17:08:53,116 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:53,121 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fbcab08993e03?alt=json
+2025-04-04 17:08:53,574 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:53,574 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fbca90dbb8c1d?alt=json
+2025-04-04 17:08:54,047 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:54,063 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fbc6adb616c03?alt=json
+2025-04-04 17:08:54,509 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:54,525 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fbc2a3af8e93f?alt=json
+2025-04-04 17:08:55,034 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:55,034 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fbc1d13d7030a?alt=json
+2025-04-04 17:08:55,478 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:55,478 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fb8b030fac46f?alt=json
+2025-04-04 17:08:56,009 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:56,027 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fb894dc62790a?alt=json
+2025-04-04 17:08:56,483 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:56,496 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fb7e5b6b038c5?alt=json
+2025-04-04 17:08:56,946 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:56,946 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fb5e56f5a6852?alt=json
+2025-04-04 17:08:57,584 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:57,587 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fb5944935205d?alt=json
+2025-04-04 17:08:58,068 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:58,074 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fb53caab6713e?alt=json
+2025-04-04 17:08:58,520 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:58,520 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fb523933b4569?alt=json
+2025-04-04 17:08:59,073 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:59,073 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fb473e40469ed?alt=json
+2025-04-04 17:08:59,600 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:08:59,604 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fb35be1f3d13d?alt=json
+2025-04-04 17:09:00,030 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:09:00,034 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fb2f2e805d7ec?alt=json
+2025-04-04 17:09:00,458 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:09:00,470 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fb152ef484ca2?alt=json
+2025-04-04 17:09:01,051 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:09:01,057 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195faf9090972789?alt=json
+2025-04-04 17:09:01,539 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:09:01,541 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195faf28159ff025?alt=json
+2025-04-04 17:09:01,992 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:09:01,997 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195faf1dc9618904?alt=json
+2025-04-04 17:09:02,453 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:09:02,453 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195faa328040152f?alt=json
+2025-04-04 17:09:03,003 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:09:03,017 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fa93edfa8bf53?alt=json
+2025-04-04 17:09:03,468 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:09:03,468 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fa7b42aea0917?alt=json
+2025-04-04 17:09:03,945 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:09:03,957 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fa70b093bfc54?alt=json
+2025-04-04 17:09:04,535 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:09:04,546 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fa5253e1aca32?alt=json
+2025-04-04 17:09:05,368 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:09:05,374 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fa389cd1cec57?alt=json
+2025-04-04 17:09:05,795 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:09:05,795 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195f9def3f7e6090?alt=json
+2025-04-04 17:09:06,280 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:09:06,280 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195f9d4e045212a9?alt=json
+2025-04-04 17:09:06,815 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:09:06,825 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195f9d08e871b4f0?alt=json
+2025-04-04 17:09:07,383 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:09:07,389 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195f9bd224ece4fb?alt=json
+2025-04-04 17:09:07,950 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:09:07,952 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195f96ea30ce771b?alt=json
+2025-04-04 17:09:09,182 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:09:09,186 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195f912268ce0857?alt=json
+2025-04-04 17:09:09,782 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:09:09,785 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195f8fcf6a6b96fd?alt=json
+2025-04-04 17:09:10,301 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:09:10,301 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195f8a0df62d1836?alt=json
+2025-04-04 17:09:10,723 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:09:10,730 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195f898a938c45af?alt=json
+2025-04-04 17:09:11,141 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:09:11,141 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195f8489e4fd4fb4?alt=json
+2025-04-04 17:09:11,689 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:09:11,692 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195f84834253b2e8?alt=json
+2025-04-04 17:09:12,249 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:09:12,251 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195f84832ff9ea26?alt=json
+2025-04-04 17:09:12,932 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:09:12,943 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195f841328ee383e?alt=json
+2025-04-04 17:09:13,489 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:09:13,489 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195f7ec72a11685c?alt=json
+2025-04-04 17:09:13,986 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:09:13,989 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195f7e132f1aec72?alt=json
+2025-04-04 17:09:14,481 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:09:14,497 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195f7d493a312a30?alt=json
+2025-04-04 17:09:14,981 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:09:14,988 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195f7c5e31c0f9cb?alt=json
+2025-04-04 17:09:15,431 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:09:15,443 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195f7b7b76becae1?alt=json
+2025-04-04 17:09:15,919 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:09:15,919 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195f7982bf46e6ed?alt=json
+2025-04-04 17:09:16,421 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:09:16,437 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195f78832505abe4?alt=json
+2025-04-04 17:09:16,887 - ERROR - Database save failed: table emails has 15 columns but 12 values were supplied
+2025-04-04 17:10:49,787 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-04 17:10:49,787 - INFO - Service initialized successfully
+2025-04-04 17:10:49,787 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?labelIds=INBOX&q=is%3Aunread&alt=json
+2025-04-04 17:10:50,634 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/196007a6b06b1054?alt=json
+2025-04-04 17:10:51,205 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:10:51,209 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/19600790c0e71698?alt=json
+2025-04-04 17:10:51,730 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:10:51,740 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/1960078d25da53f1?alt=json
+2025-04-04 17:10:52,248 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:10:52,258 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/196006e10d1cb2e9?alt=json
+2025-04-04 17:10:52,768 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:10:52,771 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/19600426761b3768?alt=json
+2025-04-04 17:10:53,245 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:10:53,248 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/196001a06158a0b3?alt=json
+2025-04-04 17:10:54,118 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:10:54,118 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/196000f3d7fcd1f2?alt=json
+2025-04-04 17:10:54,731 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:10:54,731 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/19600032d408dd5c?alt=json
+2025-04-04 17:10:55,314 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:10:55,321 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fff356cbe0643?alt=json
+2025-04-04 17:10:55,777 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:10:55,781 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195ffd80304df782?alt=json
+2025-04-04 17:10:56,318 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:10:56,318 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195ffc5b70d08e18?alt=json
+2025-04-04 17:10:57,526 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:10:57,530 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195ff8ae3bab3e95?alt=json
+2025-04-04 17:10:58,029 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:10:58,038 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195ff89911400635?alt=json
+2025-04-04 17:10:58,632 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:10:58,634 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195ff6dc94524c51?alt=json
+2025-04-04 17:10:59,298 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:10:59,312 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195ff6bea8990154?alt=json
+2025-04-04 17:10:59,782 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:10:59,782 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195ff630b4798979?alt=json
+2025-04-04 17:11:00,234 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:00,234 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195ff60cb6736c88?alt=json
+2025-04-04 17:11:00,669 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:00,674 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195ff5cfb87acceb?alt=json
+2025-04-04 17:11:01,274 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:01,280 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195ff5c7834ffedf?alt=json
+2025-04-04 17:11:01,715 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:01,724 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195ff55a08f5cf4b?alt=json
+2025-04-04 17:11:02,228 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:02,232 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195ff4d1bce4138f?alt=json
+2025-04-04 17:11:02,757 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:02,762 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195ff3ff04ba9590?alt=json
+2025-04-04 17:11:03,210 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:03,216 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195ff31c83979bf0?alt=json
+2025-04-04 17:11:03,763 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:03,763 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fef5db93f07e8?alt=json
+2025-04-04 17:11:04,246 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:04,246 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fef13f8247980?alt=json
+2025-04-04 17:11:04,988 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:04,989 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fee3bcfe957b8?alt=json
+2025-04-04 17:11:05,454 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:05,454 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fedf0eeb54ba6?alt=json
+2025-04-04 17:11:05,885 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:05,887 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195feaceff834355?alt=json
+2025-04-04 17:11:06,375 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:06,405 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fea7ad5192365?alt=json
+2025-04-04 17:11:06,945 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:06,947 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fe64bd6c94fd0?alt=json
+2025-04-04 17:11:07,374 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:07,374 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fe630a6ebb23e?alt=json
+2025-04-04 17:11:07,832 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:07,832 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fe2b66f51e4b4?alt=json
+2025-04-04 17:11:08,299 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:08,310 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fe2a68ae9130b?alt=json
+2025-04-04 17:11:08,863 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:08,863 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fe080a3f6e39c?alt=json
+2025-04-04 17:11:09,329 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:09,329 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fdc9dedcea21e?alt=json
+2025-04-04 17:11:09,810 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:09,820 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fdac49c5d3ac7?alt=json
+2025-04-04 17:11:10,280 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:10,280 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fda9b96a24e03?alt=json
+2025-04-04 17:11:10,723 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:10,742 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fd591676325de?alt=json
+2025-04-04 17:11:11,211 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:11,211 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fd3a62c2fd9af?alt=json
+2025-04-04 17:11:11,643 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:11,647 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fd269b37ccf2d?alt=json
+2025-04-04 17:11:12,105 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:12,115 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fd232e205686a?alt=json
+2025-04-04 17:11:12,571 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:12,571 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fd12b3e01cd26?alt=json
+2025-04-04 17:11:13,224 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:13,224 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fd0992f94840e?alt=json
+2025-04-04 17:11:13,725 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:13,728 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fcce4f63aed01?alt=json
+2025-04-04 17:11:14,198 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:14,202 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fccc9c86ab2b6?alt=json
+2025-04-04 17:11:14,763 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:14,772 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fc6a594fcfe5f?alt=json
+2025-04-04 17:11:15,239 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:15,242 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fc6727faeb4bd?alt=json
+2025-04-04 17:11:15,760 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:15,767 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fc538f4f2d965?alt=json
+2025-04-04 17:11:16,390 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:16,390 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fc4cbe4e94ed7?alt=json
+2025-04-04 17:11:16,874 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:16,874 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fc46ba64412eb?alt=json
+2025-04-04 17:11:17,364 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:17,372 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fc3f9b97bcdcc?alt=json
+2025-04-04 17:11:17,815 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:17,827 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fc026080d5a44?alt=json
+2025-04-04 17:11:18,295 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:18,299 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fbe07b86961e4?alt=json
+2025-04-04 17:11:18,912 - ERROR - Database save failed: NOT NULL constraint failed: emails.timestamp
+2025-04-04 17:11:18,912 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/195fbd7cebfbdc01?alt=json
